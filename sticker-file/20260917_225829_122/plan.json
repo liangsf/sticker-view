@@ -1,0 +1,72 @@
+{
+  "pack_name": "情绪价值拉满",
+  "character_prompt": "chibi style, bold outline, flat colors, pure white background, two cute girls. Fafa: glamorous mature woman, cold black French wavy long hair, cat-eye makeup, red lips, off-shoulder tight knit mini dress. Xianxian: pure sweet girl, honey brown hair with bangs and high ponytail, innocent big eyes, tipsy blush, peach jelly lips, camisole top with sheer cardigan, denim shorts.",
+  "stickers": [
+    {
+      "id": "01_hi",
+      "label": "打招呼",
+      "caption": "嗨嗨",
+      "scene": "两人一起从画面下方探头，开心挥手打招呼。",
+      "image_prompt": "chibi style, bold outline, flat colors, pure white background, two cute girls. Fafa: glamorous mature woman, cold black French wavy long hair, cat-eye makeup, red lips, off-shoulder tight knit mini dress. Xianxian: pure sweet girl, honey brown hair with bangs and high ponytail, innocent big eyes, tipsy blush, peach jelly lips, camisole top with sheer cardigan, denim shorts. Fafa and Xianxian peeking from the bottom, waving hands happily, smiling, caption text bubble '嗨嗨', white background sticker.",
+      "motion_prompt": "Both girls peeking up and waving hands, looping."
+    },
+    {
+      "id": "02_praise",
+      "label": "疯狂夸赞",
+      "caption": "美呆了",
+      "scene": "Fafa双手托腮，眼睛变成亮晶晶的大星星，疯狂点头夸赞。",
+      "image_prompt": "chibi style, bold outline, flat colors, pure white background, two cute girls. Fafa: glamorous mature woman, cold black French wavy long hair, cat-eye makeup, red lips, off-shoulder tight knit mini dress. Xianxian: pure sweet girl, honey brown hair with bangs and high ponytail, innocent big eyes, tipsy blush, peach jelly lips, camisole top with sheer cardigan, denim shorts. Fafa resting chin on hands, eyes turning into big sparkling stars, nodding crazily, caption text bubble '美呆了', white background sticker.",
+      "motion_prompt": "Fafa nodding head rapidly with sparkling star eyes, looping."
+    },
+    {
+      "id": "03_hug",
+      "label": "要贴贴",
+      "caption": "贴贴",
+      "scene": "Xianxian像无骨动物一样，从背后死死粘在Fafa身上蹭蹭。",
+      "image_prompt": "chibi style, bold outline, flat colors, pure white background, two cute girls. Fafa: glamorous mature woman, cold black French wavy long hair, cat-eye makeup, red lips, off-shoulder tight knit mini dress. Xianxian: pure sweet girl, honey brown hair with bangs and high ponytail, innocent big eyes, tipsy blush, peach jelly lips, camisole top with sheer cardigan, denim shorts. Xianxian clinging to Fafa's back like a boneless animal, rubbing cheeks, caption text bubble '贴贴', white background sticker.",
+      "motion_prompt": "Xianxian nuzzling and clinging to Fafa's back, swaying slightly, looping."
+    },
+    {
+      "id": "04_hype",
+      "label": "日常互吹",
+      "caption": "吹爆",
+      "scene": "两人穿着睡衣戴着发带，互相指着对方，背景全是飞舞的小红心。",
+      "image_prompt": "chibi style, bold outline, flat colors, pure white background, two cute girls. Fafa: glamorous mature woman, cold black French wavy long hair, cat-eye makeup, red lips, off-shoulder tight knit mini dress. Xianxian: pure sweet girl, honey brown hair with bangs and high ponytail, innocent big eyes, tipsy blush, peach jelly lips, camisole top with sheer cardigan, denim shorts. Fafa and Xianxian wearing pajamas and hairbands, pointing at each other, flying red hearts in the background, caption text bubble '吹爆', white background sticker.",
+      "motion_prompt": "Both girls pointing at each other with red hearts floating around, looping."
+    },
+    {
+      "id": "05_angry",
+      "label": "生气傲娇",
+      "caption": "哼唧",
+      "scene": "Xianxian气鼓鼓地双手叉腰，Fafa在旁边无奈又宠溺地递上一朵玫瑰花。",
+      "image_prompt": "chibi style, bold outline, flat colors, pure white background, two cute girls. Fafa: glamorous mature woman, cold black French wavy long hair, cat-eye makeup, red lips, off-shoulder tight knit mini dress. Xianxian: pure sweet girl, honey brown hair with bangs and high ponytail, innocent big eyes, tipsy blush, peach jelly lips, camisole top with sheer cardigan, denim shorts. Xianxian pouting and hands on hips angrily, Fafa smiling helplessly and offering a rose, caption text bubble '哼唧', white background sticker.",
+      "motion_prompt": "Xianxian pouting and shaking head, Fafa offering a rose, looping."
+    },
+    {
+      "id": "06_sad",
+      "label": "委屈求安慰",
+      "caption": "委屈",
+      "scene": "Xianxian眼泪汪汪，可怜巴巴地拉着Fafa的衣角，Fafa温柔地摸她的头。",
+      "image_prompt": "chibi style, bold outline, flat colors, pure white background, two cute girls. Fafa: glamorous mature woman, cold black French wavy long hair, cat-eye makeup, red lips, off-shoulder tight knit mini dress. Xianxian: pure sweet girl, honey brown hair with bangs and high ponytail, innocent big eyes, tipsy blush, peach jelly lips, camisole top with sheer cardigan, denim shorts. Xianxian with teary big eyes pulling Fafa's hem pitifully, Fafa gently patting her head, caption text bubble '委屈', white background sticker.",
+      "motion_prompt": "Xianxian pulling the hem with teary eyes, Fafa patting her head gently, looping."
+    },
+    {
+      "id": "07_speechless",
+      "label": "无语吐槽",
+      "caption": "离谱",
+      "scene": "两人一起单手扶额，翻着白眼，表情极其无语。",
+      "image_prompt": "chibi style, bold outline, flat colors, pure white background, two cute girls. Fafa: glamorous mature woman, cold black French wavy long hair, cat-eye makeup, red lips, off-shoulder tight knit mini dress. Xianxian: pure sweet girl, honey brown hair with bangs and high ponytail, innocent big eyes, tipsy blush, peach jelly lips, camisole top with sheer cardigan, denim shorts. Fafa and Xianxian facepalming with one hand, rolling eyes, extremely speechless expression, caption text bubble '离谱', white background sticker.",
+      "motion_prompt": "Both girls facepalming and rolling eyes, slight head shake, looping."
+    },
+    {
+      "id": "08_obey",
+      "label": "收到遵命",
+      "caption": "遵命",
+      "scene": "Fafa戴着墨镜，极其严肃且帅气地敬了个礼。",
+      "image_prompt": "chibi style, bold outline, flat colors, pure white background, two cute girls. Fafa: glamorous mature woman, cold black French wavy long hair, cat-eye makeup, red lips, off-shoulder tight knit mini dress. Xianxian: pure sweet girl, honey brown hair with bangs and high ponytail, innocent big eyes, tipsy blush, peach jelly lips, camisole top with sheer cardigan, denim shorts. Fafa wearing sunglasses, saluting very seriously and coolly, caption text bubble '遵命', white background sticker.",
+      "motion_prompt": "Fafa saluting sharply with sunglasses, slight confident smirk, looping."
+    }
+  ],
+  "theme": "贴贴与吹捧（日常拉满情绪价值）",
+  "character": "疯狂夸赞】画面： 角色A双手托腮，眼睛变成亮晶晶的大星星，疯狂点头。文字： “不愧是我老婆！美呆了！”【要贴贴】画面： 角色B整个人像无骨动物一样，从背后死死粘在角色A身上。文字： “贴贴，贴贴，最爱你了～”【日常互吹】画面： 两人穿着睡衣戴着发带，互相指着对方，背景全是飞舞的小红心。文字： “今晚的垃圾话，由我们承包。”【收到，遵命】画面： 角色A戴着墨镜，极其严肃地敬了个礼。文字： “收到！大姐大！”\n\n角色一：烈焰御姐 —— “大发 (Fafa)”外形核心： 浓颜系、风情万种、自信张扬。发型与发色： 蓬松的法式大波浪长发，带有慵懒的卷度，发色是高级的冷墨黑。偶尔会撩到一侧，露出精致的锁骨。五官妆容： 迷人的猫眼妆，眼角微微上扬，带着一丝小傲娇；标志性的复古正红色红唇，嘴角永远挂着自信的微笑。身材与穿搭： 身材高挑，前凸后翘。身穿一件一字肩的修身针织短裙（露出漂亮的直角肩），脚踩一双带点小性感的细带高跟鞋。气质标签： 热辣、性感、大姐姐、行走的荷尔蒙。🦄 角色二：纯欲甜心 —— “小仙 (Xianxian)”外形核心： 纯欲系、娇俏灵动、甜美中透着小诱惑。发型与发色： 轻盈的空气刘海搭配高马尾/或慵懒的半扎发，发色是温暖的蜜糖醇棕色。跑起来发丝都在跳舞。五官妆容： 楚楚可怜的无辜大眼，眼底带着微微的卧蚕；妆容重点是微醺的宿醉风腮红（从面颊延伸到鼻尖），嘴唇是水润嘟嘟的蜜桃果冻唇。身材与穿搭： 骨感匀称，属于“穿衣显瘦”的衣架子。身穿吊带小背心，外面松垮地罩着一件半透明的露肩薄开衫（要掉不掉地挂在手臂上），下身是高腰牛仔短裤，露出一双修长的大白腿。气质标签： 纯欲、猫系女友、甜美撩人、可盐可甜。"
+}

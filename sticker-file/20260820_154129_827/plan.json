@@ -1,0 +1,102 @@
+{
+  "pack_name": "加班摸鱼日常",
+  "character_prompt": "A cute chibi character with a big head and small body, wearing a casual office hoodie, messy hair, bold black outline, flat colors, pure white background, sticker composition, centered subject",
+  "stickers": [
+    {
+      "id": "01_sneak",
+      "label": "偷偷摸摸",
+      "caption": "偷偷上线",
+      "scene": "刚上班或刚切回聊天窗口，试探性打招呼",
+      "image_prompt": "A cute chibi character with a big head and small body, wearing a casual office hoodie, messy hair, bold black outline, flat colors, pure white background, sticker composition, centered subject, peeking out nervously from behind a desk while holding a smartphone, text bubble saying '偷偷上线'",
+      "motion_prompt": "Head peeking out and retreating slightly, blinking eyes, looping"
+    },
+    {
+      "id": "02_chill",
+      "label": "惬意摸鱼",
+      "caption": "带薪发呆",
+      "scene": "工作间隙放松，享受摸鱼时光",
+      "image_prompt": "A cute chibi character with a big head and small body, wearing a casual office hoodie, messy hair, bold black outline, flat colors, pure white background, sticker composition, centered subject, wearing sunglasses and sipping bubble tea, relaxing with a smug smile, text bubble saying '带薪发呆'",
+      "motion_prompt": "Sipping tea slowly, slight head bobbing, looping"
+    },
+    {
+      "id": "03_angry",
+      "label": "暴躁拒绝",
+      "caption": "别找我",
+      "scene": "正在摸鱼被打断，非常生气",
+      "image_prompt": "A cute chibi character with a big head and small body, wearing a casual office hoodie, messy hair, bold black outline, flat colors, pure white background, sticker composition, centered subject, crossing arms in an X shape with angry red face and steam coming from ears, text bubble saying '别找我'",
+      "motion_prompt": "Shaking head angrily, steam puffing from ears, looping"
+    },
+    {
+      "id": "04_cry",
+      "label": "委屈巴巴",
+      "caption": "不想干了",
+      "scene": "被迫接了额外工作，感到委屈",
+      "image_prompt": "A cute chibi character with a big head and small body, wearing a casual office hoodie, messy hair, bold black outline, flat colors, pure white background, sticker composition, centered subject, biting a handkerchief with wide noodle tears streaming down face, text bubble saying '不想干了'",
+      "motion_prompt": "Tears flowing down like noodles, shivering slightly, looping"
+    },
+    {
+      "id": "05_speechless",
+      "label": "极度无语",
+      "caption": "太离谱",
+      "scene": "看到不合理的需求或安排，感到无语",
+      "image_prompt": "A cute chibi character with a big head and small body, wearing a casual office hoodie, messy hair, bold black outline, flat colors, pure white background, sticker composition, centered subject, half-closed eyes with twitching mouth corners and a crow flying above head, text bubble saying '太离谱'",
+      "motion_prompt": "Twitching mouth corners, crow flying past, looping"
+    },
+    {
+      "id": "06_pretend",
+      "label": "假装努力",
+      "caption": "假装在忙",
+      "scene": "老板走过来时，赶紧假装工作",
+      "image_prompt": "A cute chibi character with a big head and small body, wearing a casual office hoodie, messy hair, bold black outline, flat colors, pure white background, sticker composition, centered subject, typing frantically on a keyboard with darting eyes looking around, text bubble saying '假装在忙'",
+      "motion_prompt": "Fast typing motion, eyes darting left and right, looping"
+    },
+    {
+      "id": "07_clock",
+      "label": "期待下班",
+      "caption": "等下班",
+      "scene": "临近下班时间，心思已经不在工作上",
+      "image_prompt": "A cute chibi character with a big head and small body, wearing a casual office hoodie, messy hair, bold black outline, flat colors, pure white background, sticker composition, centered subject, staring intently at a wristwatch with drool dripping from mouth, text bubble saying '等下班'",
+      "motion_prompt": "Drool dripping and wiping, eyes sparkling, looping"
+    },
+    {
+      "id": "08_tired",
+      "label": "电量耗尽",
+      "caption": "已阵亡",
+      "scene": "加班到深夜或工作太累，完全虚脱",
+      "image_prompt": "A cute chibi character with a big head and small body, wearing a casual office hoodie, messy hair, bold black outline, flat colors, pure white background, sticker composition, centered subject, slumped over the desk with a translucent ghost soul floating out of the body, text bubble saying '已阵亡'",
+      "motion_prompt": "Ghost soul floating up and fading, body slightly shaking, looping"
+    },
+    {
+      "id": "09_reject",
+      "label": "坚决甩锅",
+      "caption": "不背锅",
+      "scene": "遇到责任推诿，坚决拒绝背锅",
+      "image_prompt": "A cute chibi character with a big head and small body, wearing a casual office hoodie, messy hair, bold black outline, flat colors, pure white background, sticker composition, centered subject, pushing hands forward with a disgusted expression and a black pot flying away, text bubble saying '不背锅'",
+      "motion_prompt": "Pushing hands forward, black pot bouncing away, looping"
+    },
+    {
+      "id": "10_agree",
+      "label": "敷衍赞同",
+      "caption": "对对对",
+      "scene": "不想争论，表面答应老板或同事",
+      "image_prompt": "A cute chibi character with a big head and small body, wearing a casual office hoodie, messy hair, bold black outline, flat colors, pure white background, sticker composition, centered subject, nodding head rapidly with a fake polite smile and sweat drop on forehead, text bubble saying '对对对'",
+      "motion_prompt": "Rapid head nodding, fake smile holding, looping"
+    },
+    {
+      "id": "11_confused",
+      "label": "满头问号",
+      "caption": "听不懂",
+      "scene": "面对复杂的指令或画大饼，完全无法理解",
+      "image_prompt": "A cute chibi character with a big head and small body, wearing a casual office hoodie, messy hair, bold black outline, flat colors, pure white background, sticker composition, centered subject, tilting head with multiple question marks floating around and blank stare, text bubble saying '听不懂'",
+      "motion_prompt": "Head tilting side to side, question marks popping up, looping"
+    },
+    {
+      "id": "12_run",
+      "label": "准点下班",
+      "caption": "溜了溜了",
+      "scene": "下班时间一到，立刻冲刺下班",
+      "image_prompt": "A cute chibi character with a big head and small body, wearing a casual office hoodie, messy hair, bold black outline, flat colors, pure white background, sticker composition, centered subject, running away at high speed leaving a motion blur trail with a huge joyful smile, text bubble saying '溜了溜了'",
+      "motion_prompt": "Running in place with fast leg movement, motion blur effect, looping"
+    }
+  ]
+}

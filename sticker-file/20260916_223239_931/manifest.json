@@ -1,0 +1,103 @@
+{
+  "job_id": "20260916_223239_931",
+  "theme": "好朋友之间的暗语",
+  "pack_name": "死党暗号",
+  "character": "要成熟一点的，不要Q萌的，粗黑描边、扁平色块上色、表情夸张。纯白背景，贴纸构图，主体居中。角色形象必须在整套表情包中保持完全一致。",
+  "i2v_enabled": false,
+  "stickers": [
+    {
+      "id": "01_dude",
+      "label": "碰拳暗号",
+      "caption": "懂的都懂",
+      "scene": "好朋友见面或达成共识时的默契打招呼",
+      "image_prompt": "A mature stylized young adult character wearing a backward black baseball cap and an oversized yellow hoodie, sharp facial features, exaggerated expressions, stylized chibi but mature proportions, bold black outline, flat colors, pure white background, sticker composition, centered. The character is throwing a fist bump towards the camera with a cool smirk, wearing sunglasses. A speech bubble with text '懂的都懂'. white background sticker",
+      "motion_prompt": "Character throws a fist bump towards the camera, sunglasses flash with a glint, slight head nod, looping animation.",
+      "image": "01_dude.png",
+      "gif": null,
+      "status": "image_ready"
+    },
+    {
+      "id": "02_nailed",
+      "label": "自信拿捏",
+      "caption": "稳了",
+      "scene": "事情办妥，或者对朋友的计划表示绝对自信",
+      "image_prompt": "A mature stylized young adult character wearing a backward black baseball cap and an oversized yellow hoodie, sharp facial features, exaggerated expressions, stylized chibi but mature proportions, bold black outline, flat colors, pure white background, sticker composition, centered. The character is snapping fingers with a highly confident and exaggerated grin, one eyebrow raised. A speech bubble with text '稳了'. white background sticker",
+      "motion_prompt": "Character snaps fingers, a small spark appears, exaggerated confident grin widens, looping snap.",
+      "image": "02_nailed.png",
+      "gif": null,
+      "status": "image_ready"
+    },
+    {
+      "id": "03_rip",
+      "label": "死亡凝视",
+      "caption": "你完了",
+      "scene": "朋友作死、坑自己或者说了不该说的话",
+      "image_prompt": "A mature stylized young adult character wearing a backward black baseball cap and an oversized yellow hoodie, sharp facial features, exaggerated expressions, stylized chibi but mature proportions, bold black outline, flat colors, pure white background, sticker composition, centered. The character has an intense death stare, dark shadows over eyes, an anime-style anger vein popping on the forehead. A speech bubble with text '你完了'. white background sticker",
+      "motion_prompt": "Character's eyes narrow intensely, the anger vein pulses, dark aura flickers around, subtle menacing shake.",
+      "image": "03_rip.png",
+      "gif": null,
+      "status": "image_ready"
+    },
+    {
+      "id": "04_save",
+      "label": "抱大腿",
+      "caption": "捞捞",
+      "scene": "遇到麻烦求朋友帮忙，或者求带飞",
+      "image_prompt": "A mature stylized young adult character wearing a backward black baseball cap and an oversized yellow hoodie, sharp facial features, exaggerated expressions, stylized chibi but mature proportions, bold black outline, flat colors, pure white background, sticker composition, centered. The character is dramatically hugging an invisible giant leg, crying comically with exaggerated tears streaming down face but still looking cool. A speech bubble with text '捞捞'. white background sticker",
+      "motion_prompt": "Character shakes the invisible leg, exaggerated tears fly out in arcs, body trembling slightly, looping begging motion.",
+      "image": "04_save.png",
+      "gif": null,
+      "status": "image_ready"
+    },
+    {
+      "id": "05_wtf",
+      "label": "极度无语",
+      "caption": "离谱",
+      "scene": "朋友说了很荒谬的话或做了很无语的事",
+      "image_prompt": "A mature stylized young adult character wearing a backward black baseball cap and an oversized yellow hoodie, sharp facial features, exaggerated expressions, stylized chibi but mature proportions, bold black outline, flat colors, pure white background, sticker composition, centered. The character is doing a massive eye roll, covering half of the face with one hand in a facepalm gesture, mouth in a flat disappointed line. A speech bubble with text '离谱'. white background sticker",
+      "motion_prompt": "Character rolls eyes dramatically, hand slides down the face slightly, heavy sigh effect, looping disappointed reaction.",
+      "image": "05_wtf.png",
+      "gif": null,
+      "status": "image_ready"
+    },
+    {
+      "id": "06_go",
+      "label": "热血打气",
+      "caption": "搞起",
+      "scene": "鼓励朋友去干某事，或者一起冲业绩打游戏",
+      "image_prompt": "A mature stylized young adult character wearing a backward black baseball cap and an oversized yellow hoodie, sharp facial features, exaggerated expressions, stylized chibi but mature proportions, bold black outline, flat colors, pure white background, sticker composition, centered. The character is pointing forward aggressively with a fiery and determined expression, flexing one arm to show muscle. A speech bubble with text '搞起'. white background sticker",
+      "motion_prompt": "Character pumps the flexed arm, pointing finger glows with a small flame, energetic forward lean, looping hype motion.",
+      "image": "06_go.png",
+      "gif": null,
+      "status": "image_ready"
+    },
+    {
+      "id": "07_tea",
+      "label": "吃瓜八卦",
+      "caption": "细说",
+      "scene": "朋友有八卦要分享，表示强烈的好奇和倾听欲",
+      "image_prompt": "A mature stylized young adult character wearing a backward black baseball cap and an oversized yellow hoodie, sharp facial features, exaggerated expressions, stylized chibi but mature proportions, bold black outline, flat colors, pure white background, sticker composition, centered. The character is holding a giant watermelon slice, leaning forward with wide curious eyes and a mischievous smirk. A speech bubble with text '细说'. white background sticker",
+      "motion_prompt": "Character takes a bite of the watermelon, eyes widen with curiosity, leaning closer to the camera, looping eating and listening motion.",
+      "image": "07_tea.png",
+      "gif": null,
+      "status": "image_ready"
+    },
+    {
+      "id": "08_dip",
+      "label": "光速撤退",
+      "caption": "溜了",
+      "scene": "聊完天、下班、或者感觉气氛不对赶紧跑路",
+      "image_prompt": "A mature stylized young adult character wearing a backward black baseball cap and an oversized yellow hoodie, sharp facial features, exaggerated expressions, stylized chibi but mature proportions, bold black outline, flat colors, pure white background, sticker composition, centered. The character is riding a skateboard away, looking back over the shoulder with a cool peace sign and a sweat drop on the head. A speech bubble with text '溜了'. white background sticker",
+      "motion_prompt": "Character rides the skateboard away, looking back and flashing a peace sign, speed lines appear, looping skating away motion.",
+      "image": "08_dip.png",
+      "gif": null,
+      "status": "image_ready"
+    }
+  ],
+  "zip": "死党暗号.zip",
+  "files": {
+    "banner": "横幅_详情页_750x400.jpg",
+    "cover": "封面_240x240.png",
+    "icon": "聊天页图标_50x50.png"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "pack_name": "网感冲浪",
+  "character_prompt": "chibi character with big round head and small body, wearing oversized yellow hoodie and blue shorts, bold black outline, flat colors, pure white background, sticker composition, centered subject",
+  "stickers": [
+    {
+      "id": "01_zundu",
+      "label": "好奇卖萌",
+      "caption": "尊嘟假嘟",
+      "scene": "用于表示惊讶、好奇、不敢相信对方的话，适合打招呼或回应八卦",
+      "image_prompt": "chibi character with big round head and small body, wearing oversized yellow hoodie and blue shorts, bold black outline, flat colors, pure white background, sticker composition, centered subject, curious expression, big sparkling eyes, hands on cheeks, speech bubble with clear text '尊嘟假嘟'",
+      "motion_prompt": "character tilts head left and right quickly, eyes blink, cute and bouncy loop"
+    },
+    {
+      "id": "02_taikul",
+      "label": "激动兴奋",
+      "caption": "泰裤辣",
+      "scene": "用于表示极度赞同、觉得某事非常酷、开心到飞起",
+      "image_prompt": "chibi character with big round head and small body, wearing oversized yellow hoodie and blue shorts, bold black outline, flat colors, pure white background, sticker composition, centered subject, extremely excited expression, mouth wide open shouting, one fist raised high, speech bubble with clear text '泰裤辣'",
+      "motion_prompt": "character jumps up and down, fist pumps in the air, energetic loop"
+    },
+    {
+      "id": "03_tuitui",
+      "label": "生气驱赶",
+      "caption": "退退退",
+      "scene": "用于表示生气、拒绝霉运、驱赶讨厌的人或事，带有强烈的拒绝意味",
+      "image_prompt": "chibi character with big round head and small body, wearing oversized yellow hoodie and blue shorts, bold black outline, flat colors, pure white background, sticker composition, centered subject, angry expression, eyebrows furrowed, both hands pushing forward in a martial arts stance, speech bubble with clear text '退退退'",
+      "motion_prompt": "character steps forward aggressively, hands thrust forward repeatedly, fierce loop"
+    },
+    {
+      "id": "04_emo",
+      "label": "伤心委屈",
+      "caption": "emo了",
+      "scene": "用于表示心情低落、委屈、伤感、深夜抑郁时刻",
+      "image_prompt": "chibi character with big round head and small body, wearing oversized yellow hoodie and blue shorts, bold black outline, flat colors, pure white background, sticker composition, centered subject, sad and depressed expression, sitting on the ground hugging knees, big teardrops falling, speech bubble with clear text 'emo了'",
+      "motion_prompt": "character shivers slightly, tears fall continuously, gloomy loop"
+    },
+    {
+      "id": "05_huixie",
+      "label": "极度无语",
+      "caption": "真的会谢",
+      "scene": "用于表示无奈、无语、被气笑、反讽，遇到离谱事情时使用",
+      "image_prompt": "chibi character with big round head and small body, wearing oversized yellow hoodie and blue shorts, bold black outline, flat colors, pure white background, sticker composition, centered subject, speechless expression, rolling eyes, deadpan face, one hand facepalming, speech bubble with clear text '真的会谢'",
+      "motion_prompt": "character sighs deeply, eye rolls, hand drops slowly, deadpan loop"
+    },
+    {
+      "id": "06_zhileng",
+      "label": "振作加油",
+      "caption": "支棱起来",
+      "scene": "用于鼓励自己或他人，振作精神，拒绝颓废",
+      "image_prompt": "chibi character with big round head and small body, wearing oversized yellow hoodie and blue shorts, bold black outline, flat colors, pure white background, sticker composition, centered subject, determined expression, fiery eyes, flexing both arms showing muscles, speech bubble with clear text '支棱起来'",
+      "motion_prompt": "character flexes arms, muscles bulge slightly, energetic and confident loop"
+    },
+    {
+      "id": "07_nanxia",
+      "label": "自信掌控",
+      "caption": "拿捏",
+      "scene": "用于表示轻松搞定某事、自信满满、一切尽在掌握",
+      "image_prompt": "chibi character with big round head and small body, wearing oversized yellow hoodie and blue shorts, bold black outline, flat colors, pure white background, sticker composition, centered subject, confident smirk, winking one eye, pinching fingers together in a got it gesture, speech bubble with clear text '拿捏'",
+      "motion_prompt": "character winks, fingers pinch together smoothly, confident and smooth loop"
+    },
+    {
+      "id": "08_bailan",
+      "label": "躺平放弃",
+      "caption": "摆烂",
+      "scene": "用于表示不想努力了、放弃挣扎、彻底躺平",
+      "image_prompt": "chibi character with big round head and small body, wearing oversized yellow hoodie and blue shorts, bold black outline, flat colors, pure white background, sticker composition, centered subject, lazy and tired expression, lying flat on the back like a starfish, eyes closed, speech bubble with clear text '摆烂'",
+      "motion_prompt": "character lies completely still, breathing slowly, a small bubble pops, relaxed loop"
+    }
+  ],
+  "theme": "最新的网络用语"
+}

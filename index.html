@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>贴纸铺 · 表情包预览</title>
+  <meta name="description" content="本地表情包在线预览，支持动图与视频播放" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="bg-blobs" aria-hidden="true">
+    <span class="blob blob-1"></span>
+    <span class="blob blob-2"></span>
+    <span class="blob blob-3"></span>
+  </div>
+
+  <header class="site-header">
+    <a class="logo" href="#/">
+      <span class="logo-mark">😺</span>
+      <span class="logo-text">贴纸铺<small>Sticker View</small></span>
+    </a>
+    <nav class="header-actions">
+      <div class="search-box">
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+          <circle cx="11" cy="11" r="7"></circle><line x1="21" y1="21" x2="16.5" y2="16.5"></line>
+        </svg>
+        <input id="searchInput" type="search" placeholder="搜索表情，如「摸鱼」「贴贴」…" autocomplete="off" />
+      </div>
+    </nav>
+  </header>
+
+  <main id="app" class="container">
+    <div class="loading">加载中…</div>
+  </main>
+
+  <footer class="site-footer">
+    <p>共 <span id="statPacks">0</span> 套表情包 · <span id="statStickers">0</span> 张贴纸 · 资源完全本地化</p>
+  </footer>
+
+  <!-- 贴纸灯箱 -->
+  <div id="lightbox" class="lightbox" hidden>
+    <button class="lightbox-close" id="lightboxClose" aria-label="关闭">
+      <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+        <line x1="5" y1="5" x2="19" y2="19"></line><line x1="19" y1="5" x2="5" y2="19"></line>
+      </svg>
+    </button>
+    <button class="lightbox-nav lightbox-prev" id="lightboxPrev" aria-label="上一张">
+      <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <polyline points="15 18 9 12 15 6"></polyline>
+      </svg>
+    </button>
+    <button class="lightbox-nav lightbox-next" id="lightboxNext" aria-label="下一张">
+      <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <polyline points="9 18 15 12 9 6"></polyline>
+      </svg>
+    </button>
+    <div class="lightbox-body">
+      <div class="lightbox-media" id="lightboxMedia"></div>
+      <div class="lightbox-info">
+        <div class="lightbox-titles">
+          <h3 id="lightboxLabel"></h3>
+          <p id="lightboxCaption"></p>
+          <p class="lightbox-scene" id="lightboxScene"></p>
+        </div>
+        <div class="lightbox-downloads" id="lightboxDownloads"></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="toast" class="toast" hidden></div>
+
+  <script src="app.js"></script>
+</body>
+</html>

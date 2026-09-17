@@ -1,0 +1,103 @@
+{
+  "pack_name": "网络热梗图鉴",
+  "character_prompt": "A cute chibi character with a big head and small body, wearing a simple yellow hoodie and blue overalls, bold black outline, flat colors, centered subject",
+  "stickers": [
+    {
+      "id": "01_fei",
+      "label": "傲娇轻怼",
+      "caption": "肥嘟嘟",
+      "scene": "朋友间轻怼、催更或撒娇，表达狠话软说的反差萌。",
+      "image_prompt": "A cute chibi character with a big head and small body, wearing a simple yellow hoodie and blue overalls, bold black outline, flat colors, centered subject, pouting with puffed cheeks, pointing finger playfully, text bubble '肥嘟嘟', white background sticker",
+      "motion_prompt": "Character puffs cheeks out and in rhythmically, pointing finger wiggles slightly."
+    },
+    {
+      "id": "02_xue",
+      "label": "无奈未知",
+      "caption": "薛定谔",
+      "scene": "表达结果未定、处于叠加态的无奈或搞笑状态。",
+      "image_prompt": "A cute chibi character with a big head and small body, wearing a simple yellow hoodie and blue overalls, bold black outline, flat colors, centered subject, holding a half-burnt and half-raw pancake with a confused expression, quantum math symbols floating around, text bubble '薛定谔', white background sticker",
+      "motion_prompt": "Character shakes head slowly, the pancake emits faint glowing quantum particles."
+    },
+    {
+      "id": "03_cheng",
+      "label": "自信得瑟",
+      "caption": "成团啦",
+      "scene": "展示小成就、反击质疑或顶峰相见的得瑟场景。",
+      "image_prompt": "A cute chibi character with a big head and small body, wearing a simple yellow hoodie and blue overalls, bold black outline, flat colors, centered subject, wearing cool sunglasses, hands on hips in a confident pose, holding a shiny trophy, text bubble '成团啦', white background sticker",
+      "motion_prompt": "Character tilts head up proudly, sunglasses flash with a glint of light."
+    },
+    {
+      "id": "04_bei",
+      "label": "自嘲搞笑",
+      "caption": "卑鄙知识",
+      "scene": "吐槽正经知识背不下来，八卦冷知识却记得一清二楚。",
+      "image_prompt": "A cute chibi character with a big head and small body, wearing a simple yellow hoodie and blue overalls, bold black outline, flat colors, centered subject, rolling eyes and holding head with both hands, weird colorful trivia symbols entering the head, text bubble '卑鄙知识', white background sticker",
+      "motion_prompt": "Character shivers slightly as colorful trivia icons pop into the head, eyes roll back briefly."
+    },
+    {
+      "id": "05_ban",
+      "label": "疲惫沧桑",
+      "caption": "一身班味",
+      "scene": "形容打工人上班熬出来的疲惫气质，引发强烈共鸣。",
+      "image_prompt": "A cute chibi character with a big head and small body, wearing a simple yellow hoodie and blue overalls, bold black outline, flat colors, centered subject, messy hair, heavy dark circles under eyes, empty and lifeless stare, grayish aura around the body, text bubble '一身班味', white background sticker",
+      "motion_prompt": "Character sighs deeply, gray aura expands and contracts slowly, eyes blink sluggishly."
+    },
+    {
+      "id": "06_kong",
+      "label": "极度渴望",
+      "caption": "控制不住",
+      "scene": "对某物上头停不下来，表达极度渴望或沉迷。",
+      "image_prompt": "A cute chibi character with a big head and small body, wearing a simple yellow hoodie and blue overalls, bold black outline, flat colors, centered subject, drooling heavily, pupils dilated in shock, nodding head vigorously, heart eyes, text bubble '控制不住', white background sticker",
+      "motion_prompt": "Character nods head rapidly, drool drops fall rhythmically, heart eyes beat fast."
+    },
+    {
+      "id": "07_ai",
+      "label": "治愈温馨",
+      "caption": "爱你老己",
+      "scene": "走治愈路线，给自己比心，表达自我关爱与温暖。",
+      "image_prompt": "A cute chibi character with a big head and small body, wearing a simple yellow hoodie and blue overalls, bold black outline, flat colors, centered subject, wearing a flower crown, making a heart shape with hands, soft warm lighting, smiling gently, text bubble '爱你老己', white background sticker",
+      "motion_prompt": "Character smiles softly, hands form a heart shape that glows with a warm pink light."
+    },
+    {
+      "id": "08_li",
+      "label": "职场躺平",
+      "caption": "精神离职",
+      "scene": "人在公司心躺平，灵魂出窍，完美诠释职场状态。",
+      "image_prompt": "A cute chibi character with a big head and small body, wearing a simple yellow hoodie and blue overalls, bold black outline, flat colors, centered subject, sitting at a desk but body is melted like slime, a translucent ghost version of the character floating away, text bubble '精神离职', white background sticker",
+      "motion_prompt": "The melted body jiggles slightly, while the translucent ghost floats up and down gently."
+    },
+    {
+      "id": "09_zun",
+      "label": "开心惊讶",
+      "caption": "尊嘟假嘟",
+      "scene": "日常打招呼，表达可爱的惊讶与开心。",
+      "image_prompt": "A cute chibi character with a big head and small body, wearing a simple yellow hoodie and blue overalls, bold black outline, flat colors, centered subject, waving hand cheerfully, eyes wide open in cute surprise, blushing cheeks, text bubble '尊嘟假嘟', white background sticker",
+      "motion_prompt": "Character waves hand back and forth, blushing cheeks pulse slightly."
+    },
+    {
+      "id": "10_po",
+      "label": "委屈破防",
+      "caption": "破防了",
+      "scene": "表达委屈、想哭或轻微生气的破防瞬间。",
+      "image_prompt": "A cute chibi character with a big head and small body, wearing a simple yellow hoodie and blue overalls, bold black outline, flat colors, centered subject, crying with two streams of tears, biting lip, holding a broken heart, text bubble '破防了', white background sticker",
+      "motion_prompt": "Tears stream down continuously, the broken heart pieces shake slightly."
+    },
+    {
+      "id": "11_luan",
+      "label": "无语敷衍",
+      "caption": "已读乱回",
+      "scene": "表达无语、不想理人或敷衍的社交状态。",
+      "image_prompt": "A cute chibi character with a big head and small body, wearing a simple yellow hoodie and blue overalls, bold black outline, flat colors, centered subject, blank stare, holding a smartphone with a messy screen of random symbols, flat expression, text bubble '已读乱回', white background sticker",
+      "motion_prompt": "Character stares blankly, random symbols on the phone screen scroll quickly."
+    },
+    {
+      "id": "12_chong",
+      "label": "活力加油",
+      "caption": "冲鸭",
+      "scene": "日常加油打气，充满活力与鼓励。",
+      "image_prompt": "A cute chibi character with a big head and small body, wearing a simple yellow hoodie and blue overalls, bold black outline, flat colors, centered subject, riding on the back of a cute yellow rubber duck, pumping fist in the air, energetic pose, text bubble '冲鸭', white background sticker",
+      "motion_prompt": "Character pumps fist up and down, the rubber duck bounces slightly."
+    }
+  ],
+  "theme": "网络名词"
+}

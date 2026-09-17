@@ -1,0 +1,103 @@
+{
+  "pack_name": "网络热梗大赏",
+  "character_prompt": "a cute chibi girl with a big head and small body, wearing a yellow cat-ear hoodie, bold black outline, flat colors, exaggerated expressions, pure white background, sticker composition, centered subject",
+  "stickers": [
+    {
+      "id": "01_fat_guts",
+      "label": "胆子肥嘟嘟",
+      "caption": "肥嘟嘟",
+      "scene": "朋友间轻怼、催更或撒娇，用软萌叠词替代生硬指责，自带狠话软说的反差萌。",
+      "image_prompt": "a cute chibi girl with a big head and small body, wearing a yellow cat-ear hoodie, bold black outline, flat colors, exaggerated expressions, pure white background, sticker composition, centered subject, puffing her cheeks angrily with hands on hips, looking proud and sassy, text bubble saying '肥嘟嘟'",
+      "motion_prompt": "cheeks puffing and deflating slightly, head tilting side to side"
+    },
+    {
+      "id": "02_pancake",
+      "label": "薛定谔的煎饼",
+      "caption": "叠加态",
+      "scene": "表达结果未定、处于叠加态的无奈或搞笑状态，适合揭晓前的悬念时刻。",
+      "image_prompt": "a cute chibi girl with a big head and small body, wearing a yellow cat-ear hoodie, bold black outline, flat colors, exaggerated expressions, pure white background, sticker composition, centered subject, holding a half-burnt half-raw pancake with a confused and helpless expression, question marks around her head, text bubble saying '叠加态'",
+      "motion_prompt": "pancake flipping in the air, question marks popping up and disappearing"
+    },
+    {
+      "id": "03_debut",
+      "label": "我们成团了",
+      "caption": "别小看",
+      "scene": "展示小成就、反击质疑或顶峰相见的得瑟场景，自带极强的自信与幽默感。",
+      "image_prompt": "a cute chibi girl with a big head and small body, wearing a yellow cat-ear hoodie, bold black outline, flat colors, exaggerated expressions, pure white background, sticker composition, centered subject, wearing cool sunglasses, hands on hips, striking a confident and show-off pose, holding a small trophy, text bubble saying '别小看'",
+      "motion_prompt": "sunglasses glinting, trophy shaking slightly, confident nod"
+    },
+    {
+      "id": "04_knowledge",
+      "label": "知识进脑",
+      "caption": "卑鄙知识",
+      "scene": "吐槽当代人的记忆偏差，正经知识背不下，八卦冷知识却记得一清二楚。",
+      "image_prompt": "a cute chibi girl with a big head and small body, wearing a yellow cat-ear hoodie, bold black outline, flat colors, exaggerated expressions, pure white background, sticker composition, centered subject, rolling her eyes and holding her head with both hands, looking dizzy and overwhelmed, weird colorful symbols entering her head, text bubble saying '卑鄙知识'",
+      "motion_prompt": "head shaking rapidly, weird symbols swirling around the head"
+    },
+    {
+      "id": "05_work_smell",
+      "label": "班味太重",
+      "caption": "一身班味",
+      "scene": "表达打工人上班熬出来的疲惫气质与沧桑感，引发职场人的强烈共鸣。",
+      "image_prompt": "a cute chibi girl with a big head and small body, wearing a yellow cat-ear hoodie, bold black outline, flat colors, exaggerated expressions, pure white background, sticker composition, centered subject, messy hair, heavy dark circles under eyes, empty and lifeless stare, slouching shoulders, grayish aura around her, text bubble saying '一身班味'",
+      "motion_prompt": "sluggish blinking, gray aura slowly expanding and contracting"
+    },
+    {
+      "id": "06_cant_control",
+      "label": "控制不住",
+      "caption": "控制不住",
+      "scene": "表达对某件事物（美食、好物、八卦）上头，停不下来，极度渴望或沉迷。",
+      "image_prompt": "a cute chibi girl with a big head and small body, wearing a yellow cat-ear hoodie, bold black outline, flat colors, exaggerated expressions, pure white background, sticker composition, centered subject, drooling heavily, eyes wide open with dilated pupils, shaking her head excitedly, heart eyes, text bubble saying '控制不住'",
+      "motion_prompt": "drool dripping, pupils dilating and contracting rapidly, enthusiastic nodding"
+    },
+    {
+      "id": "07_love_myself",
+      "label": "爱你老己",
+      "caption": "爱你老己",
+      "scene": "走治愈温馨路线，给自己比心，表达今年最暖的口头禅，好好爱自己。",
+      "image_prompt": "a cute chibi girl with a big head and small body, wearing a yellow cat-ear hoodie, bold black outline, flat colors, exaggerated expressions, pure white background, sticker composition, centered subject, smiling gently with closed eyes, making a heart shape with her hands, wearing a small flower crown, warm and cozy vibe, text bubble saying '爱你老己'",
+      "motion_prompt": "gentle breathing, hands forming a heart pulsing softly, flower petals falling"
+    },
+    {
+      "id": "08_quiet_quit",
+      "label": "精神离职",
+      "caption": "精神离职",
+      "scene": "人在公司心躺平，只做最低限度工作，灵魂出窍的完美诠释当代年轻人职场状态。",
+      "image_prompt": "a cute chibi girl with a big head and small body, wearing a yellow cat-ear hoodie, bold black outline, flat colors, exaggerated expressions, pure white background, sticker composition, centered subject, sitting at a desk but her transparent ghost soul is floating out of her body towards the window, body slumped like mud, text bubble saying '精神离职'",
+      "motion_prompt": "ghost soul floating up and down, body slumping slightly"
+    },
+    {
+      "id": "09_really",
+      "label": "尊嘟假嘟",
+      "caption": "尊嘟假嘟",
+      "scene": "表达惊讶、卖萌、开心打招呼，用可爱的谐音梗拉近距离。",
+      "image_prompt": "a cute chibi girl with a big head and small body, wearing a yellow cat-ear hoodie, bold black outline, flat colors, exaggerated expressions, pure white background, sticker composition, centered subject, tilting her head cutely with a surprised and happy smile, hands on cheeks, sparkling eyes, text bubble saying '尊嘟假嘟'",
+      "motion_prompt": "head tilting left and right, eyes sparkling and blinking"
+    },
+    {
+      "id": "10_retreat",
+      "label": "退退退",
+      "caption": "退退退",
+      "scene": "表达生气、驱赶倒霉事物或无语，配合击剑动作发泄情绪。",
+      "image_prompt": "a cute chibi girl with a big head and small body, wearing a yellow cat-ear hoodie, bold black outline, flat colors, exaggerated expressions, pure white background, sticker composition, centered subject, pushing her hands forward aggressively with an angry and fierce expression, stomping her foot, text bubble saying '退退退'",
+      "motion_prompt": "hands pushing forward rhythmically, body vibrating with anger"
+    },
+    {
+      "id": "11_broken",
+      "label": "破防了",
+      "caption": "破防了",
+      "scene": "表达委屈、心理防线崩溃、想哭，适合遇到扎心事情时的自嘲。",
+      "image_prompt": "a cute chibi girl with a big head and small body, wearing a yellow cat-ear hoodie, bold black outline, flat colors, exaggerated expressions, pure white background, sticker composition, centered subject, crying with tears streaming down her face, hugging her knees, looking extremely sad and fragile, text bubble saying '破防了'",
+      "motion_prompt": "tears flowing down continuously, body trembling slightly"
+    },
+    {
+      "id": "12_tietie",
+      "label": "贴贴",
+      "caption": "贴贴",
+      "scene": "表达亲密、安慰、加油打气，用软萌的动作传递温暖和喜爱。",
+      "image_prompt": "a cute chibi girl with a big head and small body, wearing a yellow cat-ear hoodie, bold black outline, flat colors, exaggerated expressions, pure white background, sticker composition, centered subject, leaning forward with arms wide open for a hug, blushing cheeks, sweet and affectionate smile, text bubble saying '贴贴'",
+      "motion_prompt": "leaning forward and backward, arms wiggling excitedly"
+    }
+  ],
+  "theme": "网络名词"
+}

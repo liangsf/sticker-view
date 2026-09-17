@@ -1,0 +1,743 @@
+{
+  "packs": [
+    {
+      "id": "20260820_154129_827",
+      "name": "加班摸鱼日常",
+      "theme": "",
+      "cover": "sticker-file/20260820_154129_827/封面_240x240.png",
+      "banner": "sticker-file/20260820_154129_827/横幅_详情页_750x400.jpg",
+      "icon": "sticker-file/20260820_154129_827/聊天页图标_50x50.png",
+      "zip": "sticker-file/20260820_154129_827/加班摸鱼日常.zip",
+      "animated": true,
+      "count": 12,
+      "stickers": [
+        {
+          "id": "01_sneak",
+          "label": "偷偷摸摸",
+          "caption": "偷偷上线",
+          "scene": "刚上班或刚切回聊天窗口，试探性打招呼",
+          "png": "sticker-file/20260820_154129_827/01_sneak.png",
+          "gif": "sticker-file/20260820_154129_827/01_sneak.gif",
+          "mp4": "sticker-file/20260820_154129_827/01_sneak.mp4"
+        },
+        {
+          "id": "02_chill",
+          "label": "惬意摸鱼",
+          "caption": "带薪发呆",
+          "scene": "工作间隙放松，享受摸鱼时光",
+          "png": "sticker-file/20260820_154129_827/02_chill.png",
+          "gif": "sticker-file/20260820_154129_827/02_chill.gif",
+          "mp4": "sticker-file/20260820_154129_827/02_chill.mp4"
+        },
+        {
+          "id": "03_angry",
+          "label": "暴躁拒绝",
+          "caption": "别找我",
+          "scene": "正在摸鱼被打断，非常生气",
+          "png": "sticker-file/20260820_154129_827/03_angry.png",
+          "gif": "sticker-file/20260820_154129_827/03_angry.gif",
+          "mp4": "sticker-file/20260820_154129_827/03_angry.mp4"
+        },
+        {
+          "id": "04_cry",
+          "label": "委屈巴巴",
+          "caption": "不想干了",
+          "scene": "被迫接了额外工作，感到委屈",
+          "png": "sticker-file/20260820_154129_827/04_cry.png",
+          "gif": "sticker-file/20260820_154129_827/04_cry.gif",
+          "mp4": "sticker-file/20260820_154129_827/04_cry.mp4"
+        },
+        {
+          "id": "05_speechless",
+          "label": "极度无语",
+          "caption": "太离谱",
+          "scene": "看到不合理的需求或安排，感到无语",
+          "png": "sticker-file/20260820_154129_827/05_speechless.png",
+          "gif": "sticker-file/20260820_154129_827/05_speechless.gif",
+          "mp4": "sticker-file/20260820_154129_827/05_speechless.mp4"
+        },
+        {
+          "id": "06_pretend",
+          "label": "假装努力",
+          "caption": "假装在忙",
+          "scene": "老板走过来时，赶紧假装工作",
+          "png": "sticker-file/20260820_154129_827/06_pretend.png",
+          "gif": "sticker-file/20260820_154129_827/06_pretend.gif",
+          "mp4": "sticker-file/20260820_154129_827/06_pretend.mp4"
+        },
+        {
+          "id": "07_clock",
+          "label": "期待下班",
+          "caption": "等下班",
+          "scene": "临近下班时间，心思已经不在工作上",
+          "png": "sticker-file/20260820_154129_827/07_clock.png",
+          "gif": "sticker-file/20260820_154129_827/07_clock.gif",
+          "mp4": "sticker-file/20260820_154129_827/07_clock.mp4"
+        },
+        {
+          "id": "08_tired",
+          "label": "电量耗尽",
+          "caption": "已阵亡",
+          "scene": "加班到深夜或工作太累，完全虚脱",
+          "png": "sticker-file/20260820_154129_827/08_tired.png",
+          "gif": "sticker-file/20260820_154129_827/08_tired.gif",
+          "mp4": "sticker-file/20260820_154129_827/08_tired.mp4"
+        },
+        {
+          "id": "09_reject",
+          "label": "坚决甩锅",
+          "caption": "不背锅",
+          "scene": "遇到责任推诿，坚决拒绝背锅",
+          "png": "sticker-file/20260820_154129_827/09_reject.png",
+          "gif": "sticker-file/20260820_154129_827/09_reject.gif",
+          "mp4": "sticker-file/20260820_154129_827/09_reject.mp4"
+        },
+        {
+          "id": "10_agree",
+          "label": "敷衍赞同",
+          "caption": "对对对",
+          "scene": "不想争论，表面答应老板或同事",
+          "png": "sticker-file/20260820_154129_827/10_agree.png",
+          "gif": "sticker-file/20260820_154129_827/10_agree.gif",
+          "mp4": "sticker-file/20260820_154129_827/10_agree.mp4"
+        },
+        {
+          "id": "11_confused",
+          "label": "满头问号",
+          "caption": "听不懂",
+          "scene": "面对复杂的指令或画大饼，完全无法理解",
+          "png": "sticker-file/20260820_154129_827/11_confused.png",
+          "gif": "sticker-file/20260820_154129_827/11_confused.gif",
+          "mp4": "sticker-file/20260820_154129_827/11_confused.mp4"
+        },
+        {
+          "id": "12_run",
+          "label": "准点下班",
+          "caption": "溜了溜了",
+          "scene": "下班时间一到，立刻冲刺下班",
+          "png": "sticker-file/20260820_154129_827/12_run.png",
+          "gif": "sticker-file/20260820_154129_827/12_run.gif",
+          "mp4": "sticker-file/20260820_154129_827/12_run.mp4"
+        }
+      ]
+    },
+    {
+      "id": "20260905_191045_654",
+      "name": "网络热梗大赏",
+      "theme": "网络名词",
+      "cover": "sticker-file/20260905_191045_654/01_fat_guts.png",
+      "banner": null,
+      "icon": null,
+      "zip": null,
+      "animated": false,
+      "count": 12,
+      "stickers": [
+        {
+          "id": "01_fat_guts",
+          "label": "胆子肥嘟嘟",
+          "caption": "肥嘟嘟",
+          "scene": "朋友间轻怼、催更或撒娇，用软萌叠词替代生硬指责，自带狠话软说的反差萌。",
+          "png": "sticker-file/20260905_191045_654/01_fat_guts.png",
+          "gif": null,
+          "mp4": null
+        },
+        {
+          "id": "02_pancake",
+          "label": "薛定谔的煎饼",
+          "caption": "叠加态",
+          "scene": "表达结果未定、处于叠加态的无奈或搞笑状态，适合揭晓前的悬念时刻。",
+          "png": "sticker-file/20260905_191045_654/02_pancake.png",
+          "gif": null,
+          "mp4": null
+        },
+        {
+          "id": "03_debut",
+          "label": "我们成团了",
+          "caption": "别小看",
+          "scene": "展示小成就、反击质疑或顶峰相见的得瑟场景，自带极强的自信与幽默感。",
+          "png": "sticker-file/20260905_191045_654/03_debut.png",
+          "gif": null,
+          "mp4": null
+        },
+        {
+          "id": "04_knowledge",
+          "label": "知识进脑",
+          "caption": "卑鄙知识",
+          "scene": "吐槽当代人的记忆偏差，正经知识背不下，八卦冷知识却记得一清二楚。",
+          "png": "sticker-file/20260905_191045_654/04_knowledge.png",
+          "gif": null,
+          "mp4": null
+        },
+        {
+          "id": "05_work_smell",
+          "label": "班味太重",
+          "caption": "一身班味",
+          "scene": "表达打工人上班熬出来的疲惫气质与沧桑感，引发职场人的强烈共鸣。",
+          "png": "sticker-file/20260905_191045_654/05_work_smell.png",
+          "gif": null,
+          "mp4": null
+        },
+        {
+          "id": "06_cant_control",
+          "label": "控制不住",
+          "caption": "控制不住",
+          "scene": "表达对某件事物（美食、好物、八卦）上头，停不下来，极度渴望或沉迷。",
+          "png": "sticker-file/20260905_191045_654/06_cant_control.png",
+          "gif": null,
+          "mp4": null
+        },
+        {
+          "id": "07_love_myself",
+          "label": "爱你老己",
+          "caption": "爱你老己",
+          "scene": "走治愈温馨路线，给自己比心，表达今年最暖的口头禅，好好爱自己。",
+          "png": "sticker-file/20260905_191045_654/07_love_myself.png",
+          "gif": null,
+          "mp4": null
+        },
+        {
+          "id": "08_quiet_quit",
+          "label": "精神离职",
+          "caption": "精神离职",
+          "scene": "人在公司心躺平，只做最低限度工作，灵魂出窍的完美诠释当代年轻人职场状态。",
+          "png": "sticker-file/20260905_191045_654/08_quiet_quit.png",
+          "gif": null,
+          "mp4": null
+        },
+        {
+          "id": "09_really",
+          "label": "尊嘟假嘟",
+          "caption": "尊嘟假嘟",
+          "scene": "表达惊讶、卖萌、开心打招呼，用可爱的谐音梗拉近距离。",
+          "png": "sticker-file/20260905_191045_654/09_really.png",
+          "gif": null,
+          "mp4": null
+        },
+        {
+          "id": "10_retreat",
+          "label": "退退退",
+          "caption": "退退退",
+          "scene": "表达生气、驱赶倒霉事物或无语，配合击剑动作发泄情绪。",
+          "png": "sticker-file/20260905_191045_654/10_retreat.png",
+          "gif": null,
+          "mp4": null
+        },
+        {
+          "id": "11_broken",
+          "label": "破防了",
+          "caption": "破防了",
+          "scene": "表达委屈、心理防线崩溃、想哭，适合遇到扎心事情时的自嘲。",
+          "png": "sticker-file/20260905_191045_654/11_broken.png",
+          "gif": null,
+          "mp4": null
+        },
+        {
+          "id": "12_tietie",
+          "label": "贴贴",
+          "caption": "贴贴",
+          "scene": "表达亲密、安慰、加油打气，用软萌的动作传递温暖和喜爱。",
+          "png": "sticker-file/20260905_191045_654/12_tietie.png",
+          "gif": null,
+          "mp4": null
+        }
+      ]
+    },
+    {
+      "id": "20260905_191837_674",
+      "name": "网络热梗图鉴",
+      "theme": "网络名词",
+      "cover": "sticker-file/20260905_191837_674/01_fei.png",
+      "banner": null,
+      "icon": null,
+      "zip": null,
+      "animated": false,
+      "count": 12,
+      "stickers": [
+        {
+          "id": "01_fei",
+          "label": "傲娇轻怼",
+          "caption": "肥嘟嘟",
+          "scene": "朋友间轻怼、催更或撒娇，表达狠话软说的反差萌。",
+          "png": "sticker-file/20260905_191837_674/01_fei.png",
+          "gif": null,
+          "mp4": null
+        },
+        {
+          "id": "02_xue",
+          "label": "无奈未知",
+          "caption": "薛定谔",
+          "scene": "表达结果未定、处于叠加态的无奈或搞笑状态。",
+          "png": "sticker-file/20260905_191837_674/02_xue.png",
+          "gif": null,
+          "mp4": null
+        },
+        {
+          "id": "03_cheng",
+          "label": "自信得瑟",
+          "caption": "成团啦",
+          "scene": "展示小成就、反击质疑或顶峰相见的得瑟场景。",
+          "png": "sticker-file/20260905_191837_674/03_cheng.png",
+          "gif": null,
+          "mp4": null
+        },
+        {
+          "id": "04_bei",
+          "label": "自嘲搞笑",
+          "caption": "卑鄙知识",
+          "scene": "吐槽正经知识背不下来，八卦冷知识却记得一清二楚。",
+          "png": "sticker-file/20260905_191837_674/04_bei.png",
+          "gif": null,
+          "mp4": null
+        },
+        {
+          "id": "05_ban",
+          "label": "疲惫沧桑",
+          "caption": "一身班味",
+          "scene": "形容打工人上班熬出来的疲惫气质，引发强烈共鸣。",
+          "png": "sticker-file/20260905_191837_674/05_ban.png",
+          "gif": null,
+          "mp4": null
+        },
+        {
+          "id": "06_kong",
+          "label": "极度渴望",
+          "caption": "控制不住",
+          "scene": "对某物上头停不下来，表达极度渴望或沉迷。",
+          "png": "sticker-file/20260905_191837_674/06_kong.png",
+          "gif": null,
+          "mp4": null
+        },
+        {
+          "id": "07_ai",
+          "label": "治愈温馨",
+          "caption": "爱你老己",
+          "scene": "走治愈路线，给自己比心，表达自我关爱与温暖。",
+          "png": "sticker-file/20260905_191837_674/07_ai.png",
+          "gif": null,
+          "mp4": null
+        },
+        {
+          "id": "08_li",
+          "label": "职场躺平",
+          "caption": "精神离职",
+          "scene": "人在公司心躺平，灵魂出窍，完美诠释职场状态。",
+          "png": "sticker-file/20260905_191837_674/08_li.png",
+          "gif": null,
+          "mp4": null
+        },
+        {
+          "id": "09_zun",
+          "label": "开心惊讶",
+          "caption": "尊嘟假嘟",
+          "scene": "日常打招呼，表达可爱的惊讶与开心。",
+          "png": "sticker-file/20260905_191837_674/09_zun.png",
+          "gif": null,
+          "mp4": null
+        },
+        {
+          "id": "10_po",
+          "label": "委屈破防",
+          "caption": "破防了",
+          "scene": "表达委屈、想哭或轻微生气的破防瞬间。",
+          "png": "sticker-file/20260905_191837_674/10_po.png",
+          "gif": null,
+          "mp4": null
+        },
+        {
+          "id": "11_luan",
+          "label": "无语敷衍",
+          "caption": "已读乱回",
+          "scene": "表达无语、不想理人或敷衍的社交状态。",
+          "png": "sticker-file/20260905_191837_674/11_luan.png",
+          "gif": null,
+          "mp4": null
+        },
+        {
+          "id": "12_chong",
+          "label": "活力加油",
+          "caption": "冲鸭",
+          "scene": "日常加油打气，充满活力与鼓励。",
+          "png": "sticker-file/20260905_191837_674/12_chong.png",
+          "gif": null,
+          "mp4": null
+        }
+      ]
+    },
+    {
+      "id": "20260905_192130_818",
+      "name": "网络热梗日常",
+      "theme": "网络名词",
+      "cover": "sticker-file/20260905_192130_818/01_danfei.png",
+      "banner": null,
+      "icon": null,
+      "zip": null,
+      "animated": false,
+      "count": 12,
+      "stickers": [
+        {
+          "id": "01_danfei",
+          "label": "胆子肥嘟嘟",
+          "caption": "胆肥嘟嘟",
+          "scene": "朋友间轻怼、催更或撒娇，用软萌叠词替代生硬指责",
+          "png": "sticker-file/20260905_192130_818/01_danfei.png",
+          "gif": null,
+          "mp4": null
+        },
+        {
+          "id": "02_jianbing",
+          "label": "薛定谔的煎饼",
+          "caption": "薛定谔",
+          "scene": "表达结果未定、处于叠加态的无奈或搞笑状态",
+          "png": "sticker-file/20260905_192130_818/02_jianbing.png",
+          "gif": null,
+          "mp4": null
+        },
+        {
+          "id": "03_chengtuan",
+          "label": "我们成团了",
+          "caption": "成团了",
+          "scene": "展示小成就、反击质疑或顶峰相见的得瑟场景",
+          "png": "sticker-file/20260905_192130_818/03_chengtuan.png",
+          "gif": null,
+          "mp4": null
+        },
+        {
+          "id": "04_zhishi",
+          "label": "知识进脑",
+          "caption": "卑鄙知识",
+          "scene": "吐槽正经知识背不下来，八卦冷知识却记得一清二楚",
+          "png": "sticker-file/20260905_192130_818/04_zhishi.png",
+          "gif": null,
+          "mp4": null
+        },
+        {
+          "id": "05_banwei",
+          "label": "班味",
+          "caption": "一身班味",
+          "scene": "形容打工人上班熬出来的疲惫气质与沧桑感，引发共鸣",
+          "png": "sticker-file/20260905_192130_818/05_banwei.png",
+          "gif": null,
+          "mp4": null
+        },
+        {
+          "id": "06_kongzhi",
+          "label": "阿姨我控制不住了",
+          "caption": "控制不住",
+          "scene": "对某物上头，停不下来，表达极度渴望或沉迷",
+          "png": "sticker-file/20260905_192130_818/06_kongzhi.png",
+          "gif": null,
+          "mp4": null
+        },
+        {
+          "id": "07_aiji",
+          "label": "爱你老己",
+          "caption": "爱你老己",
+          "scene": "走治愈温馨路线，表达自我爱护和放松",
+          "png": "sticker-file/20260905_192130_818/07_aiji.png",
+          "gif": null,
+          "mp4": null
+        },
+        {
+          "id": "08_lizhi",
+          "label": "精神离职",
+          "caption": "精神离职",
+          "scene": "人在公司心躺平，只做分内最低限度工作",
+          "png": "sticker-file/20260905_192130_818/08_lizhi.png",
+          "gif": null,
+          "mp4": null
+        },
+        {
+          "id": "09_dazhaohu",
+          "label": "打招呼",
+          "caption": "嗨",
+          "scene": "日常打招呼，开启聊天",
+          "png": "sticker-file/20260905_192130_818/09_dazhaohu.png",
+          "gif": null,
+          "mp4": null
+        },
+        {
+          "id": "10_kaixin",
+          "label": "开心",
+          "caption": "开心",
+          "scene": "表达极度开心、庆祝或收到好消息",
+          "png": "sticker-file/20260905_192130_818/10_kaixin.png",
+          "gif": null,
+          "mp4": null
+        },
+        {
+          "id": "11_shengqi",
+          "label": "生气",
+          "caption": "气鼓鼓",
+          "scene": "表达不满、生气或傲娇的愤怒",
+          "png": "sticker-file/20260905_192130_818/11_shengqi.png",
+          "gif": null,
+          "mp4": null
+        },
+        {
+          "id": "12_weiqu",
+          "label": "委屈",
+          "caption": "委屈屈",
+          "scene": "表达难过、委屈、求安慰",
+          "png": "sticker-file/20260905_192130_818/12_weiqu.png",
+          "gif": null,
+          "mp4": null
+        }
+      ]
+    },
+    {
+      "id": "20260908_182949_980",
+      "name": "网感冲浪",
+      "theme": "最新的网络用语",
+      "cover": "sticker-file/20260908_182949_980/封面_240x240.png",
+      "banner": "sticker-file/20260908_182949_980/横幅_详情页_750x400.jpg",
+      "icon": "sticker-file/20260908_182949_980/聊天页图标_50x50.png",
+      "zip": "sticker-file/20260908_182949_980/网感冲浪.zip",
+      "animated": true,
+      "count": 8,
+      "stickers": [
+        {
+          "id": "01_zundu",
+          "label": "好奇卖萌",
+          "caption": "尊嘟假嘟",
+          "scene": "用于表示惊讶、好奇、不敢相信对方的话，适合打招呼或回应八卦",
+          "png": "sticker-file/20260908_182949_980/01_zundu.png",
+          "gif": "sticker-file/20260908_182949_980/01_zundu.gif",
+          "mp4": "sticker-file/20260908_182949_980/01_zundu.mp4"
+        },
+        {
+          "id": "02_taikul",
+          "label": "激动兴奋",
+          "caption": "泰裤辣",
+          "scene": "用于表示极度赞同、觉得某事非常酷、开心到飞起",
+          "png": "sticker-file/20260908_182949_980/02_taikul.png",
+          "gif": "sticker-file/20260908_182949_980/02_taikul.gif",
+          "mp4": "sticker-file/20260908_182949_980/02_taikul.mp4"
+        },
+        {
+          "id": "03_tuitui",
+          "label": "生气驱赶",
+          "caption": "退退退",
+          "scene": "用于表示生气、拒绝霉运、驱赶讨厌的人或事，带有强烈的拒绝意味",
+          "png": "sticker-file/20260908_182949_980/03_tuitui.png",
+          "gif": "sticker-file/20260908_182949_980/03_tuitui.gif",
+          "mp4": "sticker-file/20260908_182949_980/03_tuitui.mp4"
+        },
+        {
+          "id": "04_emo",
+          "label": "伤心委屈",
+          "caption": "emo了",
+          "scene": "用于表示心情低落、委屈、伤感、深夜抑郁时刻",
+          "png": "sticker-file/20260908_182949_980/04_emo.png",
+          "gif": "sticker-file/20260908_182949_980/04_emo.gif",
+          "mp4": "sticker-file/20260908_182949_980/04_emo.mp4"
+        },
+        {
+          "id": "05_huixie",
+          "label": "极度无语",
+          "caption": "真的会谢",
+          "scene": "用于表示无奈、无语、被气笑、反讽，遇到离谱事情时使用",
+          "png": "sticker-file/20260908_182949_980/05_huixie.png",
+          "gif": "sticker-file/20260908_182949_980/05_huixie.gif",
+          "mp4": "sticker-file/20260908_182949_980/05_huixie.mp4"
+        },
+        {
+          "id": "06_zhileng",
+          "label": "振作加油",
+          "caption": "支棱起来",
+          "scene": "用于鼓励自己或他人，振作精神，拒绝颓废",
+          "png": "sticker-file/20260908_182949_980/06_zhileng.png",
+          "gif": "sticker-file/20260908_182949_980/06_zhileng.gif",
+          "mp4": "sticker-file/20260908_182949_980/06_zhileng.mp4"
+        },
+        {
+          "id": "07_nanxia",
+          "label": "自信掌控",
+          "caption": "拿捏",
+          "scene": "用于表示轻松搞定某事、自信满满、一切尽在掌握",
+          "png": "sticker-file/20260908_182949_980/07_nanxia.png",
+          "gif": "sticker-file/20260908_182949_980/07_nanxia.gif",
+          "mp4": "sticker-file/20260908_182949_980/07_nanxia.mp4"
+        },
+        {
+          "id": "08_bailan",
+          "label": "躺平放弃",
+          "caption": "摆烂",
+          "scene": "用于表示不想努力了、放弃挣扎、彻底躺平",
+          "png": "sticker-file/20260908_182949_980/08_bailan.png",
+          "gif": "sticker-file/20260908_182949_980/08_bailan.gif",
+          "mp4": "sticker-file/20260908_182949_980/08_bailan.mp4"
+        }
+      ]
+    },
+    {
+      "id": "20260916_223239_931",
+      "name": "死党暗号",
+      "theme": "好朋友之间的暗语",
+      "cover": "sticker-file/20260916_223239_931/封面_240x240.png",
+      "banner": "sticker-file/20260916_223239_931/横幅_详情页_750x400.jpg",
+      "icon": "sticker-file/20260916_223239_931/聊天页图标_50x50.png",
+      "zip": "sticker-file/20260916_223239_931/死党暗号.zip",
+      "animated": false,
+      "count": 8,
+      "stickers": [
+        {
+          "id": "01_dude",
+          "label": "碰拳暗号",
+          "caption": "懂的都懂",
+          "scene": "好朋友见面或达成共识时的默契打招呼",
+          "png": "sticker-file/20260916_223239_931/01_dude.png",
+          "gif": null,
+          "mp4": null
+        },
+        {
+          "id": "02_nailed",
+          "label": "自信拿捏",
+          "caption": "稳了",
+          "scene": "事情办妥，或者对朋友的计划表示绝对自信",
+          "png": "sticker-file/20260916_223239_931/02_nailed.png",
+          "gif": null,
+          "mp4": null
+        },
+        {
+          "id": "03_rip",
+          "label": "死亡凝视",
+          "caption": "你完了",
+          "scene": "朋友作死、坑自己或者说了不该说的话",
+          "png": "sticker-file/20260916_223239_931/03_rip.png",
+          "gif": null,
+          "mp4": null
+        },
+        {
+          "id": "04_save",
+          "label": "抱大腿",
+          "caption": "捞捞",
+          "scene": "遇到麻烦求朋友帮忙，或者求带飞",
+          "png": "sticker-file/20260916_223239_931/04_save.png",
+          "gif": null,
+          "mp4": null
+        },
+        {
+          "id": "05_wtf",
+          "label": "极度无语",
+          "caption": "离谱",
+          "scene": "朋友说了很荒谬的话或做了很无语的事",
+          "png": "sticker-file/20260916_223239_931/05_wtf.png",
+          "gif": null,
+          "mp4": null
+        },
+        {
+          "id": "06_go",
+          "label": "热血打气",
+          "caption": "搞起",
+          "scene": "鼓励朋友去干某事，或者一起冲业绩打游戏",
+          "png": "sticker-file/20260916_223239_931/06_go.png",
+          "gif": null,
+          "mp4": null
+        },
+        {
+          "id": "07_tea",
+          "label": "吃瓜八卦",
+          "caption": "细说",
+          "scene": "朋友有八卦要分享，表示强烈的好奇和倾听欲",
+          "png": "sticker-file/20260916_223239_931/07_tea.png",
+          "gif": null,
+          "mp4": null
+        },
+        {
+          "id": "08_dip",
+          "label": "光速撤退",
+          "caption": "溜了",
+          "scene": "聊完天、下班、或者感觉气氛不对赶紧跑路",
+          "png": "sticker-file/20260916_223239_931/08_dip.png",
+          "gif": null,
+          "mp4": null
+        }
+      ]
+    },
+    {
+      "id": "20260917_225829_122",
+      "name": "情绪价值拉满",
+      "theme": "贴贴与吹捧（日常拉满情绪价值）",
+      "cover": "sticker-file/20260917_225829_122/封面_240x240.png",
+      "banner": "sticker-file/20260917_225829_122/横幅_详情页_750x400.jpg",
+      "icon": "sticker-file/20260917_225829_122/聊天页图标_50x50.png",
+      "zip": "sticker-file/20260917_225829_122/情绪价值拉满.zip",
+      "animated": true,
+      "count": 8,
+      "stickers": [
+        {
+          "id": "01_hi",
+          "label": "打招呼",
+          "caption": "嗨嗨",
+          "scene": "两人一起从画面下方探头，开心挥手打招呼。",
+          "png": "sticker-file/20260917_225829_122/01_hi.png",
+          "gif": "sticker-file/20260917_225829_122/01_hi.gif",
+          "mp4": "sticker-file/20260917_225829_122/01_hi.mp4"
+        },
+        {
+          "id": "02_praise",
+          "label": "疯狂夸赞",
+          "caption": "美呆了",
+          "scene": "Fafa双手托腮，眼睛变成亮晶晶的大星星，疯狂点头夸赞。",
+          "png": "sticker-file/20260917_225829_122/02_praise.png",
+          "gif": "sticker-file/20260917_225829_122/02_praise.gif",
+          "mp4": "sticker-file/20260917_225829_122/02_praise.mp4"
+        },
+        {
+          "id": "03_hug",
+          "label": "要贴贴",
+          "caption": "贴贴",
+          "scene": "Xianxian像无骨动物一样，从背后死死粘在Fafa身上蹭蹭。",
+          "png": "sticker-file/20260917_225829_122/03_hug.png",
+          "gif": "sticker-file/20260917_225829_122/03_hug.gif",
+          "mp4": "sticker-file/20260917_225829_122/03_hug.mp4"
+        },
+        {
+          "id": "04_hype",
+          "label": "日常互吹",
+          "caption": "吹爆",
+          "scene": "两人穿着睡衣戴着发带，互相指着对方，背景全是飞舞的小红心。",
+          "png": "sticker-file/20260917_225829_122/04_hype.png",
+          "gif": "sticker-file/20260917_225829_122/04_hype.gif",
+          "mp4": "sticker-file/20260917_225829_122/04_hype.mp4"
+        },
+        {
+          "id": "05_angry",
+          "label": "生气傲娇",
+          "caption": "哼唧",
+          "scene": "Xianxian气鼓鼓地双手叉腰，Fafa在旁边无奈又宠溺地递上一朵玫瑰花。",
+          "png": "sticker-file/20260917_225829_122/05_angry.png",
+          "gif": "sticker-file/20260917_225829_122/05_angry.gif",
+          "mp4": "sticker-file/20260917_225829_122/05_angry.mp4"
+        },
+        {
+          "id": "06_sad",
+          "label": "委屈求安慰",
+          "caption": "委屈",
+          "scene": "Xianxian眼泪汪汪，可怜巴巴地拉着Fafa的衣角，Fafa温柔地摸她的头。",
+          "png": "sticker-file/20260917_225829_122/06_sad.png",
+          "gif": "sticker-file/20260917_225829_122/06_sad.gif",
+          "mp4": "sticker-file/20260917_225829_122/06_sad.mp4"
+        },
+        {
+          "id": "07_speechless",
+          "label": "无语吐槽",
+          "caption": "离谱",
+          "scene": "两人一起单手扶额，翻着白眼，表情极其无语。",
+          "png": "sticker-file/20260917_225829_122/07_speechless.png",
+          "gif": "sticker-file/20260917_225829_122/07_speechless.gif",
+          "mp4": "sticker-file/20260917_225829_122/07_speechless.mp4"
+        },
+        {
+          "id": "08_obey",
+          "label": "收到遵命",
+          "caption": "遵命",
+          "scene": "Fafa戴着墨镜，极其严肃且帅气地敬了个礼。",
+          "png": "sticker-file/20260917_225829_122/08_obey.png",
+          "gif": "sticker-file/20260917_225829_122/08_obey.gif",
+          "mp4": "sticker-file/20260917_225829_122/08_obey.mp4"
+        }
+      ]
+    }
+  ]
+}

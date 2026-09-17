@@ -1,0 +1,103 @@
+{
+  "pack_name": "网络热梗日常",
+  "character_prompt": "a cute chibi yellow chubby cat with a big head and small body, bold black outline, flat color shading, pure white background, sticker composition, centered subject",
+  "stickers": [
+    {
+      "id": "01_danfei",
+      "label": "胆子肥嘟嘟",
+      "caption": "胆肥嘟嘟",
+      "scene": "朋友间轻怼、催更或撒娇，用软萌叠词替代生硬指责",
+      "image_prompt": "a cute chibi yellow chubby cat with a big head and small body, bold black outline, flat color shading, pure white background, sticker composition, centered subject, pouting with puffed cheeks, hands on hips, looking arrogant but cute, text bubble saying '胆肥嘟嘟'",
+      "motion_prompt": "cheeks puffing in and out slightly, head tilting arrogantly, seamless loop"
+    },
+    {
+      "id": "02_jianbing",
+      "label": "薛定谔的煎饼",
+      "caption": "薛定谔",
+      "scene": "表达结果未定、处于叠加态的无奈或搞笑状态",
+      "image_prompt": "a cute chibi yellow chubby cat with a big head and small body, bold black outline, flat color shading, pure white background, sticker composition, centered subject, holding a half-burnt half-raw pancake, looking confused and speechless, sweat drop on head, text bubble saying '薛定谔'",
+      "motion_prompt": "flipping the pancake slowly, eyes blinking in confusion, seamless loop"
+    },
+    {
+      "id": "03_chengtuan",
+      "label": "我们成团了",
+      "caption": "成团了",
+      "scene": "展示小成就、反击质疑或顶峰相见的得瑟场景",
+      "image_prompt": "a cute chibi yellow chubby cat with a big head and small body, bold black outline, flat color shading, pure white background, sticker composition, centered subject, wearing cool sunglasses, one hand on hip, the other hand making a peace sign, looking very confident and smug, text bubble saying '成团了'",
+      "motion_prompt": "adjusting sunglasses with one hand, head bobbing to a cool beat, seamless loop"
+    },
+    {
+      "id": "04_zhishi",
+      "label": "知识进脑",
+      "caption": "卑鄙知识",
+      "scene": "吐槽正经知识背不下来，八卦冷知识却记得一清二楚",
+      "image_prompt": "a cute chibi yellow chubby cat with a big head and small body, bold black outline, flat color shading, pure white background, sticker composition, centered subject, holding head with both hands, rolling eyes, a glowing weird symbol flying into the head, text bubble saying '卑鄙知识'",
+      "motion_prompt": "weird symbol spinning and entering the head, cat shaking head in pain, seamless loop"
+    },
+    {
+      "id": "05_banwei",
+      "label": "班味",
+      "caption": "一身班味",
+      "scene": "形容打工人上班熬出来的疲惫气质与沧桑感，引发共鸣",
+      "image_prompt": "a cute chibi yellow chubby cat with a big head and small body, bold black outline, flat color shading, pure white background, sticker composition, centered subject, messy hair, heavy dark circles under eyes, empty stare, green gas floating around the body, text bubble saying '一身班味'",
+      "motion_prompt": "green gas floating upwards, cat sighing with empty eyes, seamless loop"
+    },
+    {
+      "id": "06_kongzhi",
+      "label": "阿姨我控制不住了",
+      "caption": "控制不住",
+      "scene": "对某物上头，停不下来，表达极度渴望或沉迷",
+      "image_prompt": "a cute chibi yellow chubby cat with a big head and small body, bold black outline, flat color shading, pure white background, sticker composition, centered subject, drooling heavily, pupils dilated and shaking, hands grabbing the air frantically, text bubble saying '控制不住'",
+      "motion_prompt": "drool dripping, pupils shaking rapidly, hands trembling, seamless loop"
+    },
+    {
+      "id": "07_aiji",
+      "label": "爱你老己",
+      "caption": "爱你老己",
+      "scene": "走治愈温馨路线，表达自我爱护和放松",
+      "image_prompt": "a cute chibi yellow chubby cat with a big head and small body, bold black outline, flat color shading, pure white background, sticker composition, centered subject, making a heart shape with hands, blushing cheeks, wearing a small flower crown, warm and cozy vibe, text bubble saying '爱你老己'",
+      "motion_prompt": "heart shape glowing slightly, flower petals falling around, seamless loop"
+    },
+    {
+      "id": "08_lizhi",
+      "label": "精神离职",
+      "caption": "精神离职",
+      "scene": "人在公司心躺平，只做分内最低限度工作",
+      "image_prompt": "a cute chibi yellow chubby cat with a big head and small body, bold black outline, flat color shading, pure white background, sticker composition, centered subject, body melting like mud on a chair, translucent ghost soul floating out of the head looking up, text bubble saying '精神离职'",
+      "motion_prompt": "soul floating up and down slowly, body jiggling like mud, seamless loop"
+    },
+    {
+      "id": "09_dazhaohu",
+      "label": "打招呼",
+      "caption": "嗨",
+      "scene": "日常打招呼，开启聊天",
+      "image_prompt": "a cute chibi yellow chubby cat with a big head and small body, bold black outline, flat color shading, pure white background, sticker composition, centered subject, waving hand cheerfully, big bright smile, text bubble saying '嗨'",
+      "motion_prompt": "waving hand left and right, smiling brightly, seamless loop"
+    },
+    {
+      "id": "10_kaixin",
+      "label": "开心",
+      "caption": "开心",
+      "scene": "表达极度开心、庆祝或收到好消息",
+      "image_prompt": "a cute chibi yellow chubby cat with a big head and small body, bold black outline, flat color shading, pure white background, sticker composition, centered subject, jumping up high, throwing colorful confetti, laughing out loud, text bubble saying '开心'",
+      "motion_prompt": "jumping up and down, confetti falling, seamless loop"
+    },
+    {
+      "id": "11_shengqi",
+      "label": "生气",
+      "caption": "气鼓鼓",
+      "scene": "表达不满、生气或傲娇的愤怒",
+      "image_prompt": "a cute chibi yellow chubby cat with a big head and small body, bold black outline, flat color shading, pure white background, sticker composition, centered subject, stomping feet, red face, steam coming out of ears, angry eyebrows, text bubble saying '气鼓鼓'",
+      "motion_prompt": "steam puffing from ears, foot stomping, seamless loop"
+    },
+    {
+      "id": "12_weiqu",
+      "label": "委屈",
+      "caption": "委屈屈",
+      "scene": "表达难过、委屈、求安慰",
+      "image_prompt": "a cute chibi yellow chubby cat with a big head and small body, bold black outline, flat color shading, pure white background, sticker composition, centered subject, biting finger, teary eyes with big tears falling, sad mouth, text bubble saying '委屈屈'",
+      "motion_prompt": "tears falling continuously, body shivering slightly, seamless loop"
+    }
+  ],
+  "theme": "网络名词"
+}

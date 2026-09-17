@@ -1,0 +1,103 @@
+{
+  "pack_name": "网感冲浪",
+  "character_prompt": "A cute chibi character with a big head and small body, bold black outline, flat colors, exaggerated expressions, pure white background, sticker composition, centered subject.",
+  "stickers": [
+    {
+      "id": "01_zhendujd",
+      "label": "惊讶卖萌",
+      "caption": "尊嘟假嘟",
+      "scene": "听到不可思议的事情，表示怀疑和卖萌",
+      "image_prompt": "A cute chibi character with a big head and small body, bold black outline, flat colors, pure white background, sticker composition, centered subject. The character is making a cute surprised face with hands on cheeks, eyes wide open. A speech bubble with the text '尊嘟假嘟' inside.",
+      "motion_prompt": "Character tilts head left and right, eyes blink rapidly, hands wiggle on cheeks."
+    },
+    {
+      "id": "02_xianyanbao",
+      "label": "得意张扬",
+      "caption": "显眼包",
+      "scene": "在人群中非常突出，得意洋洋",
+      "image_prompt": "A cute chibi character with a big head and small body, bold black outline, flat colors, pure white background, sticker composition, centered subject. The character is striking a flamboyant pose, winking, with a big confident smile and sparkles around. A speech bubble with the text '显眼包' inside.",
+      "motion_prompt": "Character strikes a pose, sparkles flash around, chest puffs out proudly."
+    },
+    {
+      "id": "03_taikula",
+      "label": "激情热血",
+      "caption": "泰裤辣",
+      "scene": "觉得某件事超级酷，激情呐喊",
+      "image_prompt": "A cute chibi character with a big head and small body, bold black outline, flat colors, pure white background, sticker composition, centered subject. The character is jumping up with one fist raised in the air, mouth wide open shouting, dynamic action lines. A speech bubble with the text '泰裤辣' inside.",
+      "motion_prompt": "Character jumps up and down, fist pumps in the air, mouth opens and closes."
+    },
+    {
+      "id": "04_pofangle",
+      "label": "崩溃大哭",
+      "caption": "破防了",
+      "scene": "心理防线被突破，委屈大哭",
+      "image_prompt": "A cute chibi character with a big head and small body, bold black outline, flat colors, pure white background, sticker composition, centered subject. The character is crying dramatically with tears flying out like waterfalls, mouth wide open in a wail. A speech bubble with the text '破防了' inside.",
+      "motion_prompt": "Tears shoot out like fountains, character shakes violently, mouth wails."
+    },
+    {
+      "id": "05_hanliujb",
+      "label": "尴尬紧张",
+      "caption": "汗流浃背",
+      "scene": "遇到尴尬或紧张的局面，狂流汗",
+      "image_prompt": "A cute chibi character with a big head and small body, bold black outline, flat colors, pure white background, sticker composition, centered subject. The character has a nervous awkward smile, wiping sweat from forehead with a hand, giant sweat drops. A speech bubble with the text '汗流浃背' inside.",
+      "motion_prompt": "Giant sweat drops fall continuously, hand wipes forehead back and forth, nervous smile twitches."
+    },
+    {
+      "id": "06_qingwen",
+      "label": "佛系淡定",
+      "caption": "情绪稳定",
+      "scene": "面对任何事都保持淡定，佛系微笑",
+      "image_prompt": "A cute chibi character with a big head and small body, bold black outline, flat colors, pure white background, sticker composition, centered subject. The character is sitting in a lotus position with a gentle zen-like smile, eyes closed peacefully, holding a cup of tea. A speech bubble with the text '情绪稳定' inside.",
+      "motion_prompt": "Character breathes in and out slowly, steam rises from the tea cup gently."
+    },
+    {
+      "id": "07_ydlh",
+      "label": "呆滞敷衍",
+      "caption": "已读乱回",
+      "scene": "看到消息不想回，灵魂出窍，随便敷衍",
+      "image_prompt": "A cute chibi character with a big head and small body, bold black outline, flat colors, pure white background, sticker composition, centered subject. The character has a blank deadpan stare, soul leaving the body represented by a small translucent ghost, holding a phone. A speech bubble with the text '已读乱回' inside.",
+      "motion_prompt": "Soul floats up and down, character eyes stare blankly, phone screen blinks."
+    },
+    {
+      "id": "08_zhao",
+      "label": "期待招手",
+      "caption": "找搭子",
+      "scene": "寻找一起玩耍的伙伴，热情招手",
+      "image_prompt": "A cute chibi character with a big head and small body, bold black outline, flat colors, pure white background, sticker composition, centered subject. The character is waving both hands enthusiastically, looking forward with big hopeful eyes, a question mark and heart floating around. A speech bubble with the text '找搭子' inside.",
+      "motion_prompt": "Hands wave back and forth quickly, heart and question mark bounce up and down."
+    },
+    {
+      "id": "09_tangping",
+      "label": "疲惫瘫倒",
+      "caption": "躺平",
+      "scene": "不想努力了，直接躺在地上",
+      "image_prompt": "A cute chibi character with a big head and small body, bold black outline, flat colors, pure white background, sticker composition, centered subject. The character is lying flat on the back on the ground, looking at the sky with a relaxed exhausted expression, limbs spread out. A speech bubble with the text '躺平' inside.",
+      "motion_prompt": "Character lies still, chest rises and falls slowly, a small bubble pops near the head."
+    },
+    {
+      "id": "10_juejuezi",
+      "label": "赞美比心",
+      "caption": "绝绝子",
+      "scene": "觉得太棒了，双手比心赞美",
+      "image_prompt": "A cute chibi character with a big head and small body, bold black outline, flat colors, pure white background, sticker composition, centered subject. The character is making a heart shape with both hands above the head, blushing cheeks, sparkling eyes. A speech bubble with the text '绝绝子' inside.",
+      "motion_prompt": "Hands form and break the heart shape rhythmically, cheeks blush deeper, sparkles twinkle."
+    },
+    {
+      "id": "11_chunai",
+      "label": "感动捧脸",
+      "caption": "纯爱战神",
+      "scene": "看到感人的纯爱画面，感动捧脸",
+      "image_prompt": "A cute chibi character with a big head and small body, bold black outline, flat colors, pure white background, sticker composition, centered subject. The character is holding their cheeks with both hands, eyes filled with sparkling tears of emotion, blushing heavily. A speech bubble with the text '纯爱战神' inside.",
+      "motion_prompt": "Tears sparkle in eyes, hands squeeze cheeks, body trembles slightly with emotion."
+    },
+    {
+      "id": "12_bailan",
+      "label": "放弃瘫软",
+      "caption": "摆烂",
+      "scene": "彻底放弃挣扎，像一滩泥一样瘫软",
+      "image_prompt": "A cute chibi character with a big head and small body, bold black outline, flat colors, pure white background, sticker composition, centered subject. The character is melting into a puddle on the floor, eyes turned into spirals, completely giving up. A speech bubble with the text '摆烂' inside.",
+      "motion_prompt": "Character melts further into the puddle, spiral eyes spin slowly, body jiggles."
+    }
+  ],
+  "theme": "最新的网络名词"
+}
