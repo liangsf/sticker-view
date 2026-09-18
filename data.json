@@ -738,6 +738,109 @@
           "mp4": "sticker-file/20260917_225829_122/08_obey.mp4"
         }
       ]
+    },
+    {
+      "id": "20260917_225829_123",
+      "name": "表情包 20260917",
+      "theme": "",
+      "cover": "sticker-file/20260917_225829_123/01_举高高.png",
+      "banner": null,
+      "icon": null,
+      "zip": null,
+      "animated": true,
+      "count": 10,
+      "stickers": [
+        {
+          "id": "01_举高高",
+          "label": "举高高",
+          "caption": "",
+          "scene": "",
+          "png": "sticker-file/20260917_225829_123/01_举高高.png",
+          "gif": "sticker-file/20260917_225829_123/01-举高高.gif",
+          "mp4": "sticker-file/20260917_225829_123/01-举高高.mp4"
+        },
+        {
+          "id": "02_辅导作业崩溃",
+          "label": "辅导作业崩溃",
+          "caption": "",
+          "scene": "",
+          "png": "sticker-file/20260917_225829_123/02_辅导作业崩溃.png",
+          "gif": "sticker-file/20260917_225829_123/02-辅导作业崩溃.gif",
+          "mp4": "sticker-file/20260917_225829_123/02-辅导作业崩溃.mp4"
+        },
+        {
+          "id": "03_玩手机被抓包",
+          "label": "玩手机被抓包",
+          "caption": "",
+          "scene": "",
+          "png": "sticker-file/20260917_225829_123/03_玩手机被抓包.png",
+          "gif": "sticker-file/20260917_225829_123/03-玩手机被抓包.gif",
+          "mp4": "sticker-file/20260917_225829_123/03-玩手机被抓包.mp4"
+        },
+        {
+          "id": "04_假装没听见",
+          "label": "假装没听见",
+          "caption": "",
+          "scene": "",
+          "png": "sticker-file/20260917_225829_123/04_假装没听见.png",
+          "gif": "sticker-file/20260917_225829_123/04-假装没听见.gif",
+          "mp4": "sticker-file/20260917_225829_123/04-假装没听见.mp4"
+        },
+        {
+          "id": "05_父子串通",
+          "label": "父子串通",
+          "caption": "",
+          "scene": "",
+          "png": "sticker-file/20260917_225829_123/05_父子串通.png",
+          "gif": "sticker-file/20260917_225829_123/05-父子串通.gif",
+          "mp4": "sticker-file/20260917_225829_123/05-父子串通.mp4"
+        },
+        {
+          "id": "06_骑脖子超人",
+          "label": "骑脖子超人",
+          "caption": "",
+          "scene": "",
+          "png": "sticker-file/20260917_225829_123/06_骑脖子超人.png",
+          "gif": "sticker-file/20260917_225829_123/06-骑脖子超人.gif",
+          "mp4": "sticker-file/20260917_225829_123/06-骑脖子超人.mp4"
+        },
+        {
+          "id": "07_迟到狂奔",
+          "label": "迟到狂奔",
+          "caption": "",
+          "scene": "",
+          "png": "sticker-file/20260917_225829_123/07_迟到狂奔.png",
+          "gif": "sticker-file/20260917_225829_123/07-迟到狂奔.gif",
+          "mp4": "sticker-file/20260917_225829_123/07-迟到狂奔.mp4"
+        },
+        {
+          "id": "08_击掌庆祝",
+          "label": "击掌庆祝",
+          "caption": "",
+          "scene": "",
+          "png": "sticker-file/20260917_225829_123/08_击掌庆祝.png",
+          "gif": "sticker-file/20260917_225829_123/08-击掌庆祝.gif",
+          "mp4": "sticker-file/20260917_225829_123/08-击掌庆祝.mp4"
+        },
+        {
+          "id": "09_脸上作画",
+          "label": "脸上作画",
+          "caption": "",
+          "scene": "",
+          "png": "sticker-file/20260917_225829_123/09_脸上作画.png",
+          "gif": "sticker-file/20260917_225829_123/09-脸上作画.gif",
+          "mp4": "sticker-file/20260917_225829_123/09-脸上作画.mp4"
+        },
+        {
+          "id": "10_瘫成一样",
+          "label": "瘫成一样",
+          "caption": "",
+          "scene": "",
+          "png": "sticker-file/20260917_225829_123/10_瘫成一样.png",
+          "gif": "sticker-file/20260917_225829_123/10-瘫成一样.gif",
+          "mp4": "sticker-file/20260917_225829_123/10-瘫成一样.mp4"
+        }
+      ]
     }
   ]
 }
